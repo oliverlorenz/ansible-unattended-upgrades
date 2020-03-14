@@ -1,0 +1,4 @@
+galaxy_info:
+  author: Oliver Lorenz
+  license: MIT
+  min_ansible_version: 2.9
