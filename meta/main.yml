@@ -1,4 +1,5 @@
 galaxy_info:
   author: Oliver Lorenz
+  description: enables unattended-upgrades
   license: MIT
   min_ansible_version: 2.9
